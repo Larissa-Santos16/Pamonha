@@ -1,0 +1,134 @@
+*{
+    text-decoration: none;
+    padding: 0;
+    margin:0;
+    color: white;
+    text-align: justify;
+}
+
+.Pamonha2{
+    height: 50%;
+    width: 50%;
+    margin-top: 100px;
+    margin-left: 25%;
+    border-style:solid;
+    border-radius: 15px;
+    border-color: black;
+}
+
+body{
+    background-color: rgb(236, 236, 119);
+}
+
+h1 a{
+    margin: 33%;
+    padding-top: 5px ;
+    font-family: 'Courier New', Courier, monospace  ;
+    color:black;
+}
+
+.Receita li b a{
+    padding-left: 76%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color:black;
+}
+
+.PR{
+
+    height: 50%;
+    width: 50%;
+    margin-left: 23%;
+    margin-top: 25px;
+    border-style:solid;
+    border-radius: 15px;
+    border-color: black;
+
+
+}
+
+.Ingredientes ul li, .Ingredientes h2{
+    padding-left: 25px;
+    margin-top: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:black;
+    margin-left: 30px;
+}
+
+.Modo ul li, .Modo h2{
+
+    padding-left: 25px;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:black;
+    margin-bottom: 20px;
+
+
+
+}
+
+.Container{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 105px;
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(241, 162, 78) ;
+
+}
+
+.PRS{
+
+    height: 50%;
+    width: 50%;
+    margin-left: 23%;
+    margin-top: 25px;
+    border-style:solid;
+    border-radius: 15px;
+    border-color: black;
+
+}
+
+.Ing li, .Ing h2{
+    padding-left: 25px;
+    margin-top: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:black;
+    margin-left: 30px;
+}
+
+.Mod ul li, .Mod h2{
+
+    padding-left: 25px;
+    margin-left: 30px;
+    margin-top: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color:black;
+    margin-bottom: 20px;
+
+
+
+}
+
+.Cont{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+    margin-left: 105px;
+    background-color: white;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: rgb(241, 162, 78) ;
+
+}
+
+.Link li b a{
+
+    margin-left: 10%;
+    margin-bottom: 20%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color:black;
+
+}
